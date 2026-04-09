@@ -1,0 +1,6 @@
+ipywidgets
+jupyterlab_widgets
+openpyxl
+pandas
+requests
+widgetsnbextension

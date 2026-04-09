@@ -1,0 +1,12 @@
+{
+  "tenant_id": "bi",
+  "api_url": "http://stock.egov:8080/stock/v1/_search",
+  "update_url": "http://stock.egov:8080/stock/v1/_update",
+  "elastic_url": "https://elasticsearch-data.es-cluster-v8:9200/stock-index-v1/_search",
+  "elastic_scroll_api": "https://elasticsearch-data.es-cluster-v8:9200/_search/scroll",
+  "auth_token": "",
+  "elastic_auth_header": "Basic ZWxhc3RpYzpxQmJCZTdxdlJtTElUMkJMR0drdnNSMGY=",
+  "elastic_date_field": "Data.@timestamp",
+"report_min_date": "2025-02-14",
+  "report_max_date": "2025-11-07"
+}
